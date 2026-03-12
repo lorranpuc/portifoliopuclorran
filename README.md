@@ -1,8 +1,5 @@
 # 👨‍💻 Lorran Avelar - Personal Portfolio
 
-![Portfolio Preview](https://via.placeholder.com/1200x600?text=Lorran+Avelar+-+Portfolio+Preview)
-> *Substitua o link da imagem acima por um print real do seu portfólio rodando.*
-
 ## 📖 About the Project
 
 This is my personal portfolio website, designed to showcase my professional journey, technical skills, and main projects. As a **Mid-level Python Developer & RPA Specialist**, this space serves as a central hub for my work, ranging from complex enterprise legal automations (RPA) to intelligent bots and cloud infrastructure (AWS/GCP).
